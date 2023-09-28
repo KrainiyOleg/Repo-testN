@@ -1,1 +1,2 @@
 hello world
+Строчка добавлена в GitHub
